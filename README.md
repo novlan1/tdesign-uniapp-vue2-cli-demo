@@ -1,19 +1,20 @@
-# tdesign-vue2-cli
+# tdesign-uniapp-vue2-cli
 
-## Project setup
-```
-yarn install
-```
+[TDesign UniApp](https://www.npmjs.com/package/tdesign-uniapp) 示例，Vue2 + CLI 模式。
 
-### Compiles and hot-reloads for development
-```
-yarn serve
+## 安装依赖
+
+```bash
+npm install
 ```
 
-### Compiles and minifies for production
-```
-yarn build
+## 开发
+
+```bash
+npm run dev:h5
+npm run dev:mp-weixin
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 调试
+
+`vue.config.js` 中设置 `USE_TD_UNI_APP_ALIAS` 为 `true`，即可使用本地的 `tdesign-uniapp` 和 `tdesign-uniapp-chat`，否则会使用 `npm` 中的。

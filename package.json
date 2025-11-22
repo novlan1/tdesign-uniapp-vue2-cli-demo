@@ -1,5 +1,5 @@
 {
-  "name": "tdesign-vue2-cli",
+  "name": "tdesign-uniapp-vue2-cli",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -73,6 +73,8 @@
     "@vue/shared": "^3.0.0",
     "core-js": "^3.8.3",
     "flyio": "^0.6.2",
+    "tdesign-uniapp": "^0.5.5",
+    "tdesign-uniapp-chat": "^0.1.1",
     "vue": ">= 2.6.14 < 2.7",
     "vuex": "^3.2.0"
   },
@@ -90,15 +92,16 @@
     "@dcloudio/webpack-uni-mp-loader": "^2.0.2-4080420251103001",
     "@dcloudio/webpack-uni-pages-loader": "^2.0.2-4080420251103001",
     "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.9",
     "@vue/cli-service": "~5.0.0",
     "babel-plugin-import": "^1.11.0",
     "cross-env": "^7.0.2",
     "jest": "^25.4.0",
     "less-loader": "^12.3.0",
     "postcss-comment": "^2.0.0",
+    "typescript": "~4.5.5",
     "vue-template-compiler": ">= 2.6.14 < 2.7",
-    "@vue/cli-plugin-typescript": "~5.0.9",
-    "typescript": "~4.5.5"
+    "webpack-env": "^0.8.0"
   },
   "browserslist": [
     "Android >= 4.4",

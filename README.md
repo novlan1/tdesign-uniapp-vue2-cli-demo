@@ -17,4 +17,4 @@ npm run dev:mp-weixin
 
 ## 调试
 
-`vue.config.js` 中设置 `USE_TD_UNI_APP_ALIAS` 为 `true`，即可使用本地的 `tdesign-uniapp` 和 `tdesign-uniapp-chat`，否则会使用 `npm` 中的。
+`vue.config.js` 中设置 `USE_TD_UNI_APP_ALIAS` 为 `true`，即可使用本地的 `tdesign-uniapp` 和 `tdesign-uniapp-chat`，否则会使用 `npm` 中的相应包。

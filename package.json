@@ -91,6 +91,7 @@
     "@dcloudio/vue-cli-plugin-uni-optimize": "^2.0.2-4080420251103001",
     "@dcloudio/webpack-uni-mp-loader": "^2.0.2-4080420251103001",
     "@dcloudio/webpack-uni-pages-loader": "^2.0.2-4080420251103001",
+    "@types/webpack-env": "^1.18.8",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-typescript": "~5.0.9",
     "@vue/cli-service": "~5.0.0",

@@ -126,6 +126,9 @@ importers:
       '@dcloudio/webpack-uni-pages-loader':
         specifier: ^2.0.2-4080420251103001
         version: 2.0.2-4080420251103001
+      '@types/webpack-env':
+        specifier: ^1.18.8
+        version: 1.18.8
       '@vue/cli-plugin-babel':
         specifier: ~5.0.0
         version: 5.0.9(@vue/cli-service@5.0.9(@vue/compiler-sfc@3.5.24)(less-loader@12.3.0(less@4.4.2)(webpack@4.47.0))(lodash@4.17.21)(mustache@3.2.1)(vue-template-compiler@2.6.14)(vue@2.6.14)(webpack-sources@3.3.3))(core-js@3.47.0)(vue@2.6.14)

@@ -21,7 +21,7 @@ dist
 *.sw?
 
 src/_tdesign*/
-src/pages-more/
-src/pages/
-src/components/
-src/mixins/
+# src/pages-more/
+# src/pages/
+# src/components/
+# src/mixins/

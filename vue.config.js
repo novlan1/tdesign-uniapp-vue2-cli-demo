@@ -1,6 +1,6 @@
 const path = require('path');
 
-const USE_TD_UNI_APP_ALIAS = true;
+const USE_TD_UNI_APP_ALIAS = process.argv.indexOf('--alias') > -1;
 
 
 function resolve(dir) {

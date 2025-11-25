@@ -1,9 +1,16 @@
-import { base, skylineBase } from './base.json';
-import { nav, skylineNav } from './nav.json';
-import { display, skylineDisplay } from './display.json';
-import { form, skylineForm } from './form.json';
-import { ux, skylineUx } from './ux.json';
-import { chat } from './chat.json';
+import baseData from './base.json';
+import navData from './nav.json';
+import displayData from './display.json';
+import formData from './form.json';
+import uxData from './ux.json';
+import chatData from './chat.json';
+
+const  { base, skylineBase } = baseData;
+const { nav, skylineNav } = navData;
+const { display, skylineDisplay } = displayData;
+const { form, skylineForm } = formData;
+const { ux, skylineUx } = uxData;
+const { chat } = chatData;
 
 const list = [chat, base, nav, form, display, ux];
 

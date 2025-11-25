@@ -1,10 +1,10 @@
 <template>
   <view class="skyline">
     <!-- #ifndef MP-ALIPAY -->
-
-    class="demo-navbar"
-    title="Image"
-    left-arrow
+    <t-navbar
+      class="demo-navbar"
+      title="Image"
+      left-arrow
     />
     <!-- #endif -->
     <scroll-view

@@ -78,11 +78,11 @@ importers:
         specifier: ^0.6.2
         version: 0.6.14
       tdesign-uniapp:
-        specifier: ^0.5.5
-        version: 0.5.5
+        specifier: ^0.5.6
+        version: 0.5.6
       tdesign-uniapp-chat:
-        specifier: ^0.1.1
-        version: 0.1.1
+        specifier: ^0.1.2
+        version: 0.1.2
       vue:
         specifier: '>= 2.6.14 < 2.7'
         version: 2.6.14
@@ -6169,11 +6169,11 @@ packages:
     resolution: {integrity: sha512-ujeqbceABgwMZxEJnk2HDY2DlnUZ+9oEcb1KzTVfYHio0UE6dG71n60d8D2I4qNvleWrrXpmjpt7vZeF1LnMZQ==}
     engines: {node: '>=6'}
 
-  tdesign-uniapp-chat@0.1.1:
-    resolution: {integrity: sha512-iKhke6lmuy+rSuBeqI0OxKdZc6wf4t2S19HpYPXxtlg+lGua4lVRvOrROAGCckSWKl5hGmKAfw/s3637miJteg==}
+  tdesign-uniapp-chat@0.1.2:
+    resolution: {integrity: sha512-0RSac28BJE4sHE0znF9Q+WpDjAkQp573UzwHutTI4+B4lFvpl7ujrkFw2QMe4u/YZsgkGTUuzygdveTCwQ7FgA==}
 
-  tdesign-uniapp@0.5.5:
-    resolution: {integrity: sha512-ELndUPrzwhnk4z4CILZFM4UJW98YQpO+j+86727n16n07Mz96G7WIEX7lvSAEvBz1a+dnGLQdk4R3jxGHUzbDA==}
+  tdesign-uniapp@0.5.6:
+    resolution: {integrity: sha512-3GFAn1thOJZk8+Ku0a2bIfjO5H/OBnAVLlQcf5+4wnUD2cc7mdcu2laGGYWfT9NJfW4tfRY3a86/7R0y4zV69w==}
 
   teen_process@1.16.0:
     resolution: {integrity: sha512-RnW7HHZD1XuhSTzD3djYOdIl1adE3oNEprE3HOFFxWs5m4FZsqYRhKJ4mDU2udtNGMLUS7jV7l8vVRLWAvmPDw==}
@@ -14476,11 +14476,11 @@ snapshots:
       inherits: 2.0.4
       readable-stream: 3.6.2
 
-  tdesign-uniapp-chat@0.1.1:
+  tdesign-uniapp-chat@0.1.2:
     dependencies:
-      tdesign-uniapp: 0.5.5
+      tdesign-uniapp: 0.5.6
 
-  tdesign-uniapp@0.5.5: {}
+  tdesign-uniapp@0.5.6: {}
 
   teen_process@1.16.0:
     dependencies:

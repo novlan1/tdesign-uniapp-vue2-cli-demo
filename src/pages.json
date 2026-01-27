@@ -220,6 +220,8 @@
   },
   "easycom": {
     "custom": {
+      "^t-(chat-.*)": "tdesign-uniapp-chat/$1/$1.vue",
+      "^t-(attachments)": "tdesign-uniapp-chat/$1/$1.vue",
       "^t-(.*)": "tdesign-uniapp/$1/$1.vue"
     }
   },

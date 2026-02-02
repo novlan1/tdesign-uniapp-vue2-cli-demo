@@ -68,6 +68,12 @@ importers:
       '@dcloudio/uni-stat':
         specifier: ^2.0.2-4080720251210002
         version: 2.0.2-4080720251210002
+      '@tdesign/uniapp':
+        specifier: ^0.7.0
+        version: 0.7.0
+      '@tdesign/uniapp-chat':
+        specifier: ^0.2.0
+        version: 0.2.0
       '@vue/shared':
         specifier: ^3.0.0
         version: 3.5.24
@@ -1192,6 +1198,12 @@ packages:
 
   '@soda/get-current-script@1.0.2':
     resolution: {integrity: sha512-T7VNNlYVM1SgQ+VsMYhnDkcGmWhQdL0bDyGm5TlQ3GBXnJscEClUUOKduWTmm2zCnvNLC1hc3JpuXjs/nFOc5w==}
+
+  '@tdesign/uniapp-chat@0.2.0':
+    resolution: {integrity: sha512-s0rBvQlk6qWU7U4Z+DMA42IvuGaSXEr8NQZ4M0lzMwpxsamh/6vTUhJkSM52hl1rMCKbPXw+zp93tZ7G2C4DQg==}
+
+  '@tdesign/uniapp@0.7.0':
+    resolution: {integrity: sha512-4LpPAfylj1v3oUnq9FPil4r5wUaJjWreDL5aU+eILKPpWs/slMt860xrllESQmxCreXUP7Z/UVhs/IQKVubFfg==}
 
   '@trysound/sax@0.2.0':
     resolution: {integrity: sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==}
@@ -8560,6 +8572,10 @@ snapshots:
       webpack: 5.103.0
 
   '@soda/get-current-script@1.0.2': {}
+
+  '@tdesign/uniapp-chat@0.2.0': {}
+
+  '@tdesign/uniapp@0.7.0': {}
 
   '@trysound/sax@0.2.0': {}
 
